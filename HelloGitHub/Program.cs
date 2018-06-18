@@ -12,6 +12,7 @@ namespace HelloGitHub
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("Hello GitHub");
             Console.ReadKey();
         }
     }
